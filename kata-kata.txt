@@ -1,0 +1,133 @@
+===============================================
+   SELAMAT DATANG DI SILAKES SCANNER! 🏥
+===============================================
+
+Halo teman-teman UPTD Labkesda Sumenep yang saya banggakan! 👋
+
+Alhamdulillah, akhirnya aplikasi SiLAKES Scanner sudah siap untuk kita gunakan bersama. 
+
+Ini adalah hasil kerja keras kita semua untuk memudahkan proses registrasi pasien di Labkesda. Tidak perlu lagi input data manual satu per satu, cukup foto KTP, data langsung masuk ke sistem! Praktis kan? 😊
+
+---
+
+📱 APA ITU SILAKES SCANNER?
+
+SiLAKES Scanner adalah aplikasi mobile (Android) yang dibuat khusus untuk membantu teman-teman di bagian pendaftaran. Dengan aplikasi ini, kalian bisa:
+
+✅ Scan KTP pasien dengan kamera HP
+✅ Data otomatis terekstrak pakai AI (canggih!)
+✅ Langsung masuk ke sistem SiLAKES (no manual input!)
+✅ Ada riwayat scan untuk tracking
+✅ Status pasien terdaftar/belum otomatis muncul
+
+Intinya: HEMAT WAKTU, HEMAT TENAGA! 💪
+
+---
+
+🎯 BUAT APA SIH?
+
+Kita semua tahu kan, setiap hari ada banyak pasien yang harus didaftarkan. Ngetik data KTP satu-satu itu capek, bisa salah ketik pula. Nah, dengan aplikasi ini:
+
+• Pendaftaran lebih CEPAT (dari 3-5 menit jadi 1 menit!)
+• Data lebih AKURAT (AI yang baca, bukan kita yang ngantuk 😅)
+• GAMPANG dipake (tinggal foto, udah!)
+• Bisa cek RIWAYAT siapa aja yang udah scan
+
+---
+
+🚀 FITUR-FITUR UNGGULAN:
+
+1. 📸 SCAN KTP OTOMATIS
+   • Foto KTP pakai kamera HP
+   • AI langsung baca semua data (NIK, nama, alamat, dll)
+   • Kalau ada yang salah, bisa diedit manual kok
+
+2. ✅ CEK STATUS REGISTRASI
+   • Badge HIJAU = Pasien sudah terdaftar
+   • Badge KUNING = Pasien belum terdaftar
+   • Jadi gak perlu cek manual ke sistem lagi!
+
+3. 📋 RIWAYAT SCAN
+   • Semua KTP yang udah di-scan tersimpan
+   • Bisa dilihat lagi kapan aja
+   • Untuk yang belum terdaftar, bisa langsung kirim ulang
+
+4. ✏️ EDIT & KIRIM ULANG
+   • Kalau data kurang lengkap, bisa diedit
+   • Foto KTP tetap tersimpan, gak perlu foto ulang
+   • Klik "Kirim" langsung masuk ke Firebase
+
+5. 🎓 PANDUAN LENGKAP
+   • Ada tutorial step-by-step
+   • Penjelasan detail setiap tombol
+   • Gampang dipahami, bahkan buat yang gaptek sekalipun! 😄
+
+---
+
+💡 TIPS PAKAI APLIKASI:
+
+1. Pastikan HP terhubung INTERNET (WiFi/data)
+2. Foto KTP di tempat yang TERANG
+3. Pastikan KTP dalam posisi HORIZONTAL
+4. Hindari bayangan atau pantulan cahaya
+5. Kalau blur, foto ulang aja ya!
+
+Tenang, di aplikasi udah ada PANDUAN LENGKAP kok. Tinggal ikutin aja step by step. Dijamin langsung bisa! 👍
+
+---
+
+⚠️ HAL PENTING:
+
+• Aplikasi ini HANYA untuk INTERNAL Labkesda
+• Data pasien RAHASIA, jaga privasi
+• Jangan share APK sembarangan
+• Kalau ada kendala, langsung kontak IT aja
+
+---
+
+🤝 MARI KITA MAKSIMALKAN!
+
+Teman-teman, aplikasi ini dibuat untuk MEMUDAHKAN PEKERJAAN KITA. Bukan buat nambah ribet, justru buat NGURANGIN beban kerja kita sehari-hari.
+
+Yuk kita manfaatkan sebaik-baiknya! Kalau ada saran, kritik, atau masukan, jangan sungkan untuk sampaikan. Kita terus improve bareng-bareng ya! 💪
+
+---
+
+📞 BUTUH BANTUAN?
+
+Kalau ada yang bingung atau error, jangan panik! Langsung hubungi:
+
+📱 Tim IT Labkesda Sumenep
+💬 WhatsApp: [Nomor kontak IT]
+📧 Email: [Email IT]
+
+Atau bisa langsung datang ke ruang IT. Kita bantu sampai bisa! InsyaAllah 😊
+
+---
+
+🎉 PENUTUP
+
+Terima kasih untuk dukungan dan kerja sama teman-teman semua. Semoga aplikasi SiLAKES Scanner ini bisa membantu kita memberikan pelayanan yang lebih baik untuk masyarakat Sumenep.
+
+Ingat: TEKNOLOGI ITU UNTUK MEMUDAHKAN, BUKAN MEMPERSULIT!
+
+Mari kita tunjukkan bahwa Labkesda Sumenep itu MODERN, EFISIEN, dan SIAP MELAYANI! 🚀
+
+Tetap semangat, tetap kompak, tetap jaga kesehatan! 💪❤️
+
+---
+
+Salam hangat,
+Tim IT UPTD Labkesda Sumenep
+
+#LabkesdaSumenep
+#SiLAKESScanner
+#InovasiPelayanan
+#KerjaCerdas
+#MelayaniDenganHati
+
+===============================================
+        UPGRADE PELAYANAN, UPGRADE KAMI!
+===============================================
+
+P.S. Jangan lupa install aplikasinya ya! Dan kalau udah bisa pakai, ajarin teman yang lain. Sharing is caring! 😊

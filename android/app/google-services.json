@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "538431244441",
+    "firebase_url": "https://silakes-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "silakes",
+    "storage_bucket": "silakes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538431244441:android:694014ac2a225819905008",
+        "android_client_info": {
+          "package_name": "id.labkesdasumenep.si_l_a_k_e_s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538431244441-7e9dt98m9ftci0kgqvb943c1q81nopvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sh06eeUge5N-x6V6IScxI45reP3kGYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538431244441-7e9dt98m9ftci0kgqvb943c1q81nopvj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538431244441-b9la1trno3vg1ue9v5kv6ers3c07r7e6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.labkesdasumenep.siLAKEs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538431244441:android:bcdabd75f675b22e905008",
+        "android_client_info": {
+          "package_name": "id.labkesdasumenep.silakes.silakes_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538431244441-7e9dt98m9ftci0kgqvb943c1q81nopvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sh06eeUge5N-x6V6IScxI45reP3kGYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538431244441-7e9dt98m9ftci0kgqvb943c1q81nopvj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538431244441-b9la1trno3vg1ue9v5kv6ers3c07r7e6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.labkesdasumenep.siLAKEs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
